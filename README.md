@@ -1,10 +1,11 @@
 # Hi there, I'm Kairav Nandi 👋
 
 🎓 2nd year CSE Undergraduate @ IIITDM Kurnool  
-💡 Passionate and motivated about building projects that solve real-world problems.  
-🚀 Always exploring new tools, frameworks, and challenges in tech.  
-🤖 Enthusiast in full-stack development, web automation, web3, appdev and open source.  
-🧠 Strong in problem-solving, communication, and collaboration.
+💡 Builder at heart — I love solving real-world problems through code  
+🛠️ Full-stack developer with experience in web, app, and automation projects  
+🧠 Tech explorer — diving into web3, AI/ML, and scalable backend systems  
+🌱 Currently working on trading systems, data analytics, and career tech tools  
+🤝 Open-source enthusiast | Fast learner | Team collaborator
 
 ---
 
