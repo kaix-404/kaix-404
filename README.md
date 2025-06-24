@@ -1,6 +1,6 @@
 # Hi there, I'm Kairav Nandi 👋
 
-🎓 2nd year CSE Undergraduate @ IIITDM Kurnool
+🎓 2nd year CSE Undergraduate @ IIITDM Kurnool  
 💡 Passionate and motivated about building projects that solve real-world problems.  
 🚀 Always exploring new tools, frameworks, and challenges in tech.  
 🤖 Enthusiast in full-stack development, web automation, web3, appdev and open source.  
