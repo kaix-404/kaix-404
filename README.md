@@ -83,6 +83,6 @@
 
 ### 🏆 GitHub Trophy
 
-![[GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kaix-404&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kaix-404&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
