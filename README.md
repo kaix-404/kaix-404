@@ -40,7 +40,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![yfinance](https://img.shields.io/badge/yfinance-000000?style=flat)
 ![ta](https://img.shields.io/badge/TA%20Lib-4584b6?style=flat)
-![SHAP](https://img.shields.io/badge/SHAP-FF5733?style=flat)
+![SHAP](https://img.shields.io/badge/SHAP-FF5733?style=flat&logo=shap)
 
 **Business Intelligence & Reporting**  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
