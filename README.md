@@ -81,6 +81,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaix-404&layout=compact&theme=tokyonight)
 
+![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=shivamvats&theme=tokyonight)
 ---
 
 ### 🏆 GitHub Trophy
