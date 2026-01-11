@@ -73,6 +73,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![DevPost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-003E54?style=flat&logo=canva&logoColor=white)
 
 ---
 
