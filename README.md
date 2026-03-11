@@ -38,7 +38,6 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![yfinance](https://img.shields.io/badge/yfinance-000000?style=flat)
 ![ta](https://img.shields.io/badge/TA%20Lib-4584b6?style=flat)
 ![SHAP](https://img.shields.io/badge/SHAP-FF5733?style=flat)
 
