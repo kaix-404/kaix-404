@@ -1,6 +1,6 @@
 # Hi there, I'm Kairav Nandi 👋
 
-🎓 2nd year CSE Undergraduate @ IIITDM Kurnool  
+🎓 3rd year CSE Undergraduate @ IIITDM Kurnool  
 📊 Data-driven developer, passionate about solving real-world problems using Machine Learning and Analytics  
 🧠 Experienced with end-to-end workflows: data collection, preprocessing, modeling, and visualization  
 💻 Skilled in full-stack web development and automation — building dynamic, responsive, and real-world web apps  
