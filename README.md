@@ -62,12 +62,12 @@
 
 **Languages & Runtimes**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c&theme=dark" />
 </p>
 
 **Frontend & Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,expo&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,flutter,expo&theme=dark" />
 </p>
 
 **Backend & APIs**
