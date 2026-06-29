@@ -243,7 +243,7 @@
 ## `$ cat ./github-analytics`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaix-404&show_icons=true&theme=transparent&title_color=00C9A7&icon_color=F4A261&text_color=E0F7F4&border_color=00C9A7&bg_color=0A0F1E&ring_color=00C9A7&hide_border=false&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaix-404&show_icons=true&theme=dark&title_color=00C9A7&icon_color=F4A261&text_color=E0F7F4&border_color=00C9A7&bg_color=0A0F1E&ring_color=00C9A7&hide_border=false&rank_icon=github" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kaix-404&theme=transparent&background=0A0F1E&border=00C9A7&ring=00C9A7&fire=F4A261&currStreakNum=E0F7F4&sideNums=E0F7F4&currStreakLabel=00C9A7&sideLabels=4A9EBE&dates=4A9EBE" width="49%" />
 </p>
 
@@ -256,7 +256,7 @@
 ## `$ cat ./trophies`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaix-404&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=00C9A7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kaix-404&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=00C9A7" />
 </p>
 
 ---
