@@ -1,94 +1,345 @@
-# Hi there, I'm Kairav Nandi 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A0F1E,50:0D3B2E,100:00C9A7&height=200&section=header&text=Kairav%20Nandi&fontSize=60&fontColor=E0F7F4&fontAlignY=50&desc=Full%20Stack%20%E2%9A%A1%20AI%2FML%20Engineer%20%E2%9A%A1%20Graph%20Systems&descAlignY=72&descSize=18&animation=fadeIn" />
+</p>
 
-🎓 3rd year CSE Undergraduate @ IIITDM Kurnool  
-📊 Data-driven developer, passionate about solving real-world problems using Machine Learning and Analytics  
-🧠 Experienced with end-to-end workflows: data collection, preprocessing, modeling, and visualization  
-💻 Skilled in full-stack web development and automation — building dynamic, responsive, and real-world web apps  
-🤝 Team player, open-source enthusiast, and always curious to explore new tools, domains, and challenges
-
----
-
-### 🌐 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kairav-nandi-750595313/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kairavnandi@gmail.com)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00C9A7&background=0A0F1E00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=%24+.%2Fkairav+--init;%3E+Loading%3A+Full+Stack+%2B+AI%2FML+Engineer+%40+IIITDM+Kurnool;%3E+Building%3A+EduTrust+%E2%80%94+Graph+AI+Skill+Verification+Network;%3E+Exploring%3A+Flutter+%7C+GraphQL+%7C+Agentic+AI+Systems;%3E+Status%3A+Open+to+SWE+%26+GenAI+Roles+%5BAVAILABLE%5D" />
+  </a>
+</p>
 
 ---
 
-### 💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/BTech%20CSE%20(3rd%20Year)-0D1B2A?style=flat-square&logo=mortarboard&logoColor=00C9A7&labelColor=0A0F1E&color=00C9A7" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/IIITDM%20Kurnool-0D1B2A?style=flat-square&logo=university&logoColor=4A9EBE&labelColor=0A0F1E&color=4A9EBE" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kolkata%2C%20India-0D1B2A?style=flat-square&logo=googlemaps&logoColor=F4A261&labelColor=0A0F1E&color=F4A261" />
+</p>
 
-**Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kairavnandi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00C9A7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1E" />
+  </a>
+  &nbsp;
+  <a href="mailto:kairavnandi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-F4A261?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1E" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kaix-404">
+    <img src="https://img.shields.io/badge/GitHub-kaix--404-4A9EBE?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1E" />
+  </a>
+</p>
 
-**Data Analysis & Visualization**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-005F73?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-333333?style=flat)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**Machine Learning & Explainability**  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![ta](https://img.shields.io/badge/TA%20Lib-4584b6?style=flat)
-![SHAP](https://img.shields.io/badge/SHAP-FF5733?style=flat)
-
-**Business Intelligence & Reporting**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-**Computer Vision & GUI**  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Tkinter](https://img.shields.io/badge/tkinter-%23000000?style=flat)
-
-**Tools & Platforms**  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![DevPost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaix-404&style=flat-square&color=00C9A7&label=PROFILE+VIEWS&labelColor=0A0F1E" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/kaix-404?style=flat-square&color=4A9EBE&label=FOLLOWERS&labelColor=0A0F1E&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/kaix-404?style=flat-square&color=F4A261&label=TOTAL+STARS&labelColor=0A0F1E&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## `$ whoami`
 
-![Kairav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaix-404&show_icons=true&theme=tokyonight)
+> BTech CSE student at IIITDM Kurnool with **1 year of hands-on internship experience** spanning full-stack development and data analytics. I architect systems where **graph intelligence meets real-world product** — from AI-powered skill verification networks to agentic business intelligence platforms. Currently deepening expertise in **Flutter** and **Agentic AI**, and actively seeking **SWE & Generative AI** roles.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaix-404&layout=compact&theme=tokyonight)
-
-![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=kaix-404&theme=tokyonight)
+```bash
+{
+  ROLE      : "Full Stack + AI/ML Engineer",
+  EXP       : "1 year (Internships @ CodeAlpha & Elevate Labs)",
+  DOMAIN    : ["SaaS", "Analytics", "Deep Learning", "Graph Systems"],
+  STACK     : ["MERN", "Next.js", "TypeScript", "Django", "Neo4j", "PyTorch"],
+  OPEN_TO   : ["Software Engineering", "Agentic AI", "Generative AI Roles"]
+}
+```
 
 ---
 
-### 🏆 GitHub Trophy
+## `$ ls ./tech-stack`
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kaix-404&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+**Languages & Runtimes**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,dart&theme=dark" />
+</p>
+
+**Frontend & Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,expo&theme=dark" />
+</p>
+
+**Backend & APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql,fastapi&theme=dark" />
+</p>
+
+**AI / ML / Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+</p>
+
+**Data & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,neo4j&theme=dark" />
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,github,vercel,linux&theme=dark" />
+</p>
 
 ---
+
+## `$ cat ./specialization.json`
+
+<p>
+  <img src="https://img.shields.io/badge/Graph%20AI%20Systems-00C9A7?style=flat-square&labelColor=0A0F1E&logoColor=00C9A7" />
+  <img src="https://img.shields.io/badge/Agentic%20AI%20Pipelines-00C9A7?style=flat-square&labelColor=0A0F1E" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20SaaS-4A9EBE?style=flat-square&labelColor=0A0F1E" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-4A9EBE?style=flat-square&labelColor=0A0F1E" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-F4A261?style=flat-square&labelColor=0A0F1E" />
+  <img src="https://img.shields.io/badge/GraphQL%20%2B%20Neo4j-F4A261?style=flat-square&labelColor=0A0F1E" />
+  <img src="https://img.shields.io/badge/Hackathon%20Builder-00C9A7?style=flat-square&labelColor=0A0F1E" />
+</p>
+
+---
+
+## `$ cat ./expertise-matrix.md`
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| **Full Stack Development** | ████████░░ Advanced | MERN, Next.js, TypeScript, REST & GraphQL APIs |
+| **AI / Machine Learning** | ███████░░░ Proficient | PyTorch, TensorFlow, scikit-learn, model pipelines |
+| **Graph Systems** | ██████░░░░ Proficient | Neo4j, Cypher queries, graph-based data modeling |
+| **Data Analysis** | ██████░░░░ Proficient | Pandas, NumPy, business insights, dashboarding |
+| **Mobile Development** | ████░░░░░░ Growing | Expo, React Native, Flutter (in progress) |
+| **Agentic AI / LLMs** | █████░░░░░ Growing | AI agents, web scraping pipelines, PDF report gen |
+
+---
+
+## `$ ls ./projects --details`
+
+<details open>
+<summary><b>🔷 EduTrust — Graph AI Skill Verification Network</b></summary>
+
+<br>
+
+> An AI-powered trust network connecting learners and recruiters through **verifiable, graph-structured skill credentials**.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | TypeScript · Node.js · Neo4j · Expo · GraphQL |
+| **Scale** | Hackathon project → active product in development |
+| **Architecture** | Graph-based skill nodes + trust edges modeled in Neo4j |
+| **AI Layer** | AI-powered credential verification and skill inference |
+| **My Role** | Sole builder — architecture, backend, mobile, AI integration |
+| **Impact** | Exploring recruiter-learner trust gap using graph intelligence |
+
+</details>
+
+<details>
+<summary><b>🤖 AuditAI — Agentic Business Intelligence Platform</b></summary>
+
+<br>
+
+> An AI agent that **analyzes company websites**, generates insights, and auto-delivers **executive-grade PDF reports** via email.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | TypeScript · Next.js · AI Agent Pipeline |
+| **Features** | Web scraping → AI analysis → PDF generation → Email delivery |
+| **My Role** | End-to-end builder — scraping, agent design, report generation |
+| **Learning** | Agentic AI pipelines, automated deliverable workflows |
+
+</details>
+
+<details>
+<summary><b>🌐 SocialSphere — Full Stack Social Media Application</b></summary>
+
+<br>
+
+> A feature-rich social platform built on the MERN stack with full authentication and social graph features.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | MongoDB · Express · React · Node.js · Tailwind CSS |
+| **Features** | Email verification · Posts · Likes · Comments · Follow system |
+| **My Role** | Full-stack developer — frontend, backend, auth flows |
+| **Highlight** | Complete production-ready social media feature set |
+
+</details>
+
+---
+
+## `$ cat ./experience.log`
+
+### **Full Stack Intern** — CodeAlpha
+`June 2025 – July 2025`
+
+- Contributed to full-stack web development projects using modern JavaScript frameworks and RESTful API design
+- Built and integrated UI components with a focus on performance, reusability, and clean code standards
+- Collaborated in a fast-paced internship environment, shipping features within tight sprint cycles
+- **Tags:** `React` `Node.js` `REST APIs` `JavaScript` `Full Stack`
+
+---
+
+### **Data Analyst Intern** — Elevate Labs
+`May 2025 – June 2025`
+
+- Analyzed business datasets to surface actionable insights and support data-driven decision-making
+- Worked with data pipelines and visualization tools to communicate trends to stakeholders
+- Applied statistical techniques using Python (Pandas, NumPy) for exploratory data analysis
+- Produced reports and dashboards contributing to internal analytics workflows
+- **Tags:** `Python` `Pandas` `NumPy` `Data Analysis` `Business Intelligence`
+
+---
+
+## `$ cat ./achievements.md`
+
+<div align="center">
+
+| 🏆 Achievement | 🏅 Issuer | 📅 Year |
+|---|---|---|
+| Generative AI Certification | Microsoft | 2025 |
+| GDG On Campus Solutions Challenge | Hack2Skill | 2025 |
+| CodingQuest DSA Competition — **Rank #5** 🥇 | Devantra Community | 2025 |
+
+</div>
+
+---
+
+## `$ ls ./education`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BTech%20in%20Computer%20Science%20%26%20Engineering-IIITDM%20Kurnool-00C9A7?style=for-the-badge&labelColor=0A0F1E&logo=graduation-cap&logoColor=E0F7F4" />
+</p>
+
+<p align="center">
+  <sub>3rd Year · Expected Graduation: 2027</sub>
+</p>
+
+---
+
+## `$ cat ./coding-profiles`
+
+<p align="center">
+  <a href="https://leetcode.com/u/AlphaClark/">
+    <img src="https://img.shields.io/badge/LeetCode-AlphaClark-F4A261?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A0F1E" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Kai26">
+    <img src="https://img.shields.io/badge/Codeforces-Kai26-4A9EBE?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0A0F1E" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/alphaclark">
+    <img src="https://img.shields.io/badge/CodeChef-alphaclark-00C9A7?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0A0F1E" />
+  </a>
+</p>
+
+---
+
+## `$ cat ./github-analytics`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaix-404&show_icons=true&theme=transparent&title_color=00C9A7&icon_color=F4A261&text_color=E0F7F4&border_color=00C9A7&bg_color=0A0F1E&ring_color=00C9A7&hide_border=false&rank_icon=github" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaix-404&theme=transparent&background=0A0F1E&border=00C9A7&ring=00C9A7&fire=F4A261&currStreakNum=E0F7F4&sideNums=E0F7F4&currStreakLabel=00C9A7&sideLabels=4A9EBE&dates=4A9EBE" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaix-404&layout=compact&theme=transparent&title_color=00C9A7&text_color=E0F7F4&border_color=00C9A7&bg_color=0A0F1E&langs_count=8" width="42%" />
+</p>
+
+---
+
+## `$ cat ./trophies`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kaix-404&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=00C9A7" />
+</p>
+
+---
+
+## `$ cat ./activity-graph`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaix-404&bg_color=0A0F1E&color=00C9A7&line=4A9EBE&point=F4A261&area=true&area_color=00C9A7&hide_border=false&border_color=00C9A7&title_color=00C9A7" width="95%" />
+</p>
+
+---
+
+## `$ cat ./summary-cards`
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaix-404&theme=github_dark" width="95%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaix-404&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaix-404&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaix-404&theme=github_dark&utcOffset=5.5" width="32%" />
+</p>
+
+---
+
+## `$ ./snake --watch`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kaix-404/kaix-404/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## `$ cat ./current-focus.yaml`
+
+```yaml
+current_focus:
+  building:
+    - name: "EduTrust"
+      description: "Graph AI skill verification & recruiter-learner trust network"
+      stack: [TypeScript, Node.js, Neo4j, Expo, GraphQL]
+      status: "Active — adding new features & improving UX"
+
+  learning:
+    - Flutter (cross-platform mobile development)
+    - Advanced GraphQL query optimization
+    - Agentic AI system design & LLM orchestration
+
+  exploring:
+    - Graph neural networks for credential trust scoring
+    - Multi-agent AI frameworks (LangGraph, CrewAI)
+    - Production-grade mobile app deployment
+
+  open_to:
+    - Software Engineering & Full Stack Development roles
+    - Agentic AI & Generative AI Engineering roles
+    - Hackathons, open-source collaborations, research projects
+```
+
+---
+
+## `$ ./connect --all`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kairavnandi">
+    <img src="https://img.shields.io/badge/LinkedIn-kairavnandi-00C9A7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1E" />
+  </a>
+  &nbsp;
+  <a href="mailto:kairavnandi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kairavnandi@gmail.com-F4A261?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1E" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kaix-404">
+    <img src="https://img.shields.io/badge/GitHub-kaix--404-4A9EBE?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1E" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <i>"Build systems that think, craft products that matter."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0F1E,50:0D3B2E,100:00C9A7&height=100&section=footer&reversal=true" />
+</p>
