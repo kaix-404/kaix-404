@@ -217,7 +217,7 @@
 </p>
 
 <p align="center">
-  <sub>3rd Year · Expected Graduation: 2027</sub>
+  <sub>3rd Year · Expected Graduation: 2028</sub>
 </p>
 
 ---
