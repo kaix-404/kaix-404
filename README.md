@@ -77,7 +77,7 @@
 
 **AI / ML / Data**
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,tensorflow,pytorch,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
 </p>
 
 **Data & Databases**
