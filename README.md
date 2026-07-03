@@ -90,6 +90,11 @@
   <img src="https://skillicons.dev/icons?i=git,docker,github,vercel,linux&theme=dark" />
 </p>
 
+**Tools & IDEs**
+<p>
+   <img src="https://skillicons.dev/icons?i=pycharm,vscode,postman&theme=dark" />
+</p>
+
 ---
 
 ## `$ cat ./specialization.json`
